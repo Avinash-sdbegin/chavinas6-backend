@@ -1,0 +1,16 @@
+{
+  "name": "proffesbackend6",
+  "version": "1.0.0",
+  "description": "a backened at chai aur code-yputibr",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai"
+  ],
+  "author": "Avinash",
+  "license": "ISC"
+}
