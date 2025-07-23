@@ -2,9 +2,10 @@
   "name": "proffesbackend6",
   "version": "1.0.0",
   "description": "a backened at chai aur code-yputibr",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "nodemon src/index.js"
+    "dev": "nodemon src/index.js"
   },
   "keywords": [
     "javascript",
